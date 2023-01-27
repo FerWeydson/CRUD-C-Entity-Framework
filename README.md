@@ -1,2 +1,2 @@
-# CRUD-C-Entity-Framework
-CRUD com Entity FrameWork + Sql Server
+# CRUD-C#-Entity-Framework
+CRUD em API - Entity Framework + SqlServer
