@@ -22,8 +22,16 @@ namespace teste_api.Controllers
         {
             _context.Add(contato);
             _context.SaveChanges();
-            return Ok(contato   );
+            return CreatedAtAction(nameof(ObterPorId), new { id = contato.Id }, contato);
         }
+                [HttpGet("ObterPorNome")]
+        public IActionResult ObterPorNome(string nome)
+        {
+            var contatos = _context.Contatos.Where(x => x.Nome.Contains(nome));
+
+            return Ok(contatos);
+        }
+
         [HttpGet("{id}")]
         public IActionResult ObterPorId(int id)
         {
@@ -59,6 +67,7 @@ namespace teste_api.Controllers
 
             _context.Contatos.Remove(contatoBanco);
             _context.SaveChanges();
+
             return NoContent();
 
         }
