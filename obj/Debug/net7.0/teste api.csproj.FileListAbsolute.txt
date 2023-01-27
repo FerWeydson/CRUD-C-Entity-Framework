@@ -1,0 +1,76 @@
+F:\Projetos\teste api\bin\Debug\net7.0\appsettings.Development.json
+F:\Projetos\teste api\bin\Debug\net7.0\appsettings.json
+F:\Projetos\teste api\bin\Debug\net7.0\teste api.exe
+F:\Projetos\teste api\bin\Debug\net7.0\teste api.deps.json
+F:\Projetos\teste api\bin\Debug\net7.0\teste api.runtimeconfig.json
+F:\Projetos\teste api\bin\Debug\net7.0\teste api.dll
+F:\Projetos\teste api\bin\Debug\net7.0\teste api.pdb
+F:\Projetos\teste api\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+F:\Projetos\teste api\bin\Debug\net7.0\Microsoft.OpenApi.dll
+F:\Projetos\teste api\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Projetos\teste api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Projetos\teste api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Projetos\teste api\obj\Debug\net7.0\teste api.csproj.AssemblyReference.cache
+F:\Projetos\teste api\obj\Debug\net7.0\teste api.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projetos\teste api\obj\Debug\net7.0\teste api.AssemblyInfoInputs.cache
+F:\Projetos\teste api\obj\Debug\net7.0\teste api.AssemblyInfo.cs
+F:\Projetos\teste api\obj\Debug\net7.0\teste api.csproj.CoreCompileInputs.cache
+F:\Projetos\teste api\obj\Debug\net7.0\teste api.MvcApplicationPartsAssemblyInfo.cs
+F:\Projetos\teste api\obj\Debug\net7.0\teste api.MvcApplicationPartsAssemblyInfo.cache
+F:\Projetos\teste api\obj\Debug\net7.0\staticwebassets\msbuild.teste api.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Projetos\teste api\obj\Debug\net7.0\staticwebassets\msbuild.build.teste api.props
+F:\Projetos\teste api\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.teste api.props
+F:\Projetos\teste api\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.teste api.props
+F:\Projetos\teste api\obj\Debug\net7.0\staticwebassets.pack.json
+F:\Projetos\teste api\obj\Debug\net7.0\staticwebassets.build.json
+F:\Projetos\teste api\obj\Debug\net7.0\staticwebassets.development.json
+F:\Projetos\teste api\obj\Debug\net7.0\scopedcss\bundle\teste api.styles.css
+F:\Projetos\teste api\obj\Debug\net7.0\teste api.csproj.CopyComplete
+F:\Projetos\teste api\obj\Debug\net7.0\teste api.dll
+F:\Projetos\teste api\obj\Debug\net7.0\refint\teste api.dll
+F:\Projetos\teste api\obj\Debug\net7.0\teste api.pdb
+F:\Projetos\teste api\obj\Debug\net7.0\teste api.genruntimeconfig.cache
+F:\Projetos\teste api\obj\Debug\net7.0\ref\teste api.dll
+F:\Projetos\teste api\bin\Debug\net7.0\Azure.Core.dll
+F:\Projetos\teste api\bin\Debug\net7.0\Azure.Identity.dll
+F:\Projetos\teste api\bin\Debug\net7.0\Humanizer.dll
+F:\Projetos\teste api\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Projetos\teste api\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+F:\Projetos\teste api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+F:\Projetos\teste api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Projetos\teste api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\Projetos\teste api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Projetos\teste api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Projetos\teste api\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+F:\Projetos\teste api\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+F:\Projetos\teste api\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\Projetos\teste api\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+F:\Projetos\teste api\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Projetos\teste api\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+F:\Projetos\teste api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+F:\Projetos\teste api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Projetos\teste api\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+F:\Projetos\teste api\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+F:\Projetos\teste api\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+F:\Projetos\teste api\bin\Debug\net7.0\Mono.TextTemplating.dll
+F:\Projetos\teste api\bin\Debug\net7.0\System.CodeDom.dll
+F:\Projetos\teste api\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+F:\Projetos\teste api\bin\Debug\net7.0\System.Drawing.Common.dll
+F:\Projetos\teste api\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Projetos\teste api\bin\Debug\net7.0\System.Memory.Data.dll
+F:\Projetos\teste api\bin\Debug\net7.0\System.Runtime.Caching.dll
+F:\Projetos\teste api\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+F:\Projetos\teste api\bin\Debug\net7.0\System.Security.Permissions.dll
+F:\Projetos\teste api\bin\Debug\net7.0\System.Windows.Extensions.dll
+F:\Projetos\teste api\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Projetos\teste api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Projetos\teste api\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Projetos\teste api\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Projetos\teste api\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Projetos\teste api\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Projetos\teste api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\Projetos\teste api\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\Projetos\teste api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\Projetos\teste api\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\Projetos\teste api\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Projetos\teste api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
